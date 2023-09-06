@@ -1,0 +1,50 @@
+* {
+    outline: 1px red solid;
+}
+
+body {
+    background-color: #252526;
+}
+
+#cabecalho .nav .nav-link.active{
+    background-color: #0e0e0e;
+    border: 1px solid 	#007acc;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar {
+    background-color: #1e1e1e
+}
+
+section {
+    color: #fff;
+}
+
+#about h5 {
+    padding-top: 10%;
+}
+
+.button-center a {
+    margin: 1%;
+}
+
+.button-center button {
+    font-weight: bold;
+    background-color: #0e0e0e;
+    border: 1px solid 	#007acc;
+}
+
+.button-center button:hover {
+    background-color: #0079ca;
+}
+
+#about p {
+    font-weight: bold;
+    font-size: 20px;
+}
